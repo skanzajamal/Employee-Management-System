@@ -1,0 +1,49 @@
+c:\users\user\documents\visual studio 2010\Projects\main\main\bin\Debug\main.exe
+c:\users\user\documents\visual studio 2010\Projects\main\main\bin\Debug\main.pdb
+c:\users\user\documents\visual studio 2010\Projects\main\main\obj\x86\Debug\main.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\main\main\obj\x86\Debug\main.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\main\main\obj\x86\Debug\main.exe
+c:\users\user\documents\visual studio 2010\Projects\main\main\obj\x86\Debug\main.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\main\main\obj\x86\Debug\main.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\main\main\obj\x86\Debug\main.Insert.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\main\main\obj\x86\Debug\main.Update.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\main\main\obj\x86\Debug\main.Delete.resources
+C:\Users\USER\documents\visual studio 2010\Projects\main\main\obj\x86\Debug\main.csprojResolveAssemblyReference.cache
+F:\main\main\obj\x86\Debug\main.exe
+F:\main\main\obj\x86\Debug\main.pdb
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.exe
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.pdb
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\bin\Debug\main.exe
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\bin\Debug\main.pdb
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.frmDelete.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.frmMain.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.frmInsert.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.frmUpdate.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060\main\obj\x86\Debug\main.frmSearch.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.exe
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.pdb
+C:\Users\USER\Desktop\A3\Project Source\employee\main\bin\Debug\main.exe
+C:\Users\USER\Desktop\A3\Project Source\employee\main\bin\Debug\main.pdb
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmDelete.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmMain.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmInsert.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmSearch.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmUpdate.resources
+C:\Users\USER\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.exe
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.pdb
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\bin\Debug\main.exe
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\bin\Debug\main.pdb
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmDelete.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmMain.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmInsert.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmSearch.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.frmUpdate.resources
+C:\Users\USER\Desktop\Desktop\A3\Project Source\employee\main\obj\x86\Debug\main.csproj.GenerateResource.Cache
