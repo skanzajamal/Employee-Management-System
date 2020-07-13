@@ -1,4 +1,4 @@
-# Management-Systemt
+# Management-System
 A desktop application for storing and managing important personal information of the employees. The application is implemented using CRUD operations.
 
 Requirements:
